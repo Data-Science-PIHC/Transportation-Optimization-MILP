@@ -46,5 +46,5 @@ Thumbs.db
 .env
 
 # Dataset directory (if you want to exclude data files)
-dataset/*.csv
+# dataset/*.csv
 !dataset/example.csv  # Use this format to include specific data files if needed

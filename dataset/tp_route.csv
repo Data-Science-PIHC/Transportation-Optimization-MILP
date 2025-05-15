@@ -1,0 +1,21 @@
+origin	destination	mode_name	lead_time (days)	total_cost
+PlantA	WH01	Ship	4	800
+PlantA	WH01	Big Truck	2	500
+PlantA	WH01	Small Truck	3	250
+PlantA	WH02	Ship	5	900
+PlantA	WH02	Big Truck	2	550
+PlantA	WH03	Small Truck	4	300
+PlantA	WH03	Big Truck	3	600
+PlantA	WH04	Ship	6	1000
+PlantA	WH04	Big Truck	3	650
+PlantA	WH05	Ship	7	1200
+PlantA	WH05	Small Truck	5	350
+PlantA	WH06	Small Truck	4	320
+PlantA	WH06	Big Truck	3	700
+PlantA	WH07	Ship	5	950
+PlantA	WH07	Big Truck	3	600
+PlantA	WH08	Small Truck	3	280
+PlantA	WH08	Big Truck	2	500
+PlantA	WH09	Small Truck	4	270
+PlantA	WH10	Ship	6	1100
+PlantA	WH10	Big Truck	3	650
