@@ -12,6 +12,7 @@ setup(
         'matplotlib>=3.3.0',
         'numpy>=1.19.0',
         'openpyxl>=3.0.0',
+        'snowflake-connector-python>=3.5.0',
     ],
     python_requires='>=3.7',
     author="Your Name",

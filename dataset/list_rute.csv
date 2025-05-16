@@ -1,0 +1,19 @@
+Lini 1,Kode Gudang Lini 1,Lini 2,Kode Gudang Lini 2,Jenis Kendaraan,Kapasitas,In bag/curah,Tarif Freight,Tarif Survey,Tarif Bongkar/Muat,Tarif Pengantongan,Tarif Total,Lead Time,Jenis Pupuk,Rate Bongkar Muat (Ton/Hari)
+Gd Lini I Sar Bontang,D101,Gd Berau,D723,Truck,21.00,In bag,"1,379,016.00",,"21,000.00",,"1,400,016.00",2.10,Urea/NPK,60
+Gd Lini I Sar Bontang,D101,Gd Bulungan,"D251
+",Truck,21.00,In bag,"1,503,072.00",,"48,000.00",,"1,551,072.00",2.52,Urea/NPK,25
+Gd Lini I Sar Bontang,D101,Gd Kutai Timur,D412,Truck,21.00,In bag,"213,775.00",,"30,000.00",,"243,775.00",1.00,Urea/NPK,25
+Gd Lini I Sar Bontang,D101,Gd Penajam Paser Utara,D3BP,Truck,21.00,In bag,"747,659.00",,"26,000.00",,"773,659.00",1.42,Urea/NPK,30
+Gd Lini I Sar Bontang,D102,GD PKT MEDAN,D278,Container,21.00,In bag,"740,000.00",,,,"740,000.00",,Urea/NPK,700
+Gd Lini I Sar Bontang,D101,GD PKT MEDAN,D278,Kapal,"14,000.00",Curah,"435,000.00","1,250.00","102,460.00","87,480.00","626,190.00",,Urea,4000
+Gd Lini I Sar Bontang,D101,Gd Samarinda / Damanhuri,D235,Truck,21.00,In bag,"299,064.00",,"22,000.00",,"321,064.00",1.00,Urea/NPK,50
+Gd Lini I Sar Bontang,D101,Gd Tanah Grogot,D3BQ,Truck,21.00,In bag,"924,883.00",,"17,000.00",,"941,883.00",1.90,Urea/NPK,30
+Gd Lini I Sar Gresik,B101,DC LAMPUNG I,B205,Truck,38.25,In bag,"538,000.00",,"20,400.00",,"558,400.00",3.64,NPK,460
+Gd Lini I Sar Gresik,B101,DC LAMPUNG II,B206,Truck,38.25,In bag,"538,000.00",,"20,400.00",,"558,400.00",3.64,NPK,2000
+Gd Lini I Sar Lhokseumawe,E701,DC MEDAN II PIM,E398,Kapal,"6,500.00",In bag,"380,000.00",,,,"380,000.00",,NPK,700
+Gd Lini I Sar Lhokseumawe,E101,PAYA PASIR,E201,Truck,15.00,In bag,"283,500.00",,"20,800.00",,"304,300.00",2.37,Urea/NPK,1500
+Pel Lini I Gresik,B701,DC LAMPUNG I,B205,Kapal,"2,600.00",In bag,"166,000.00",,"109,700.00",,"275,700.00",,NPK,350
+Pel Lini I Gresik,B701,DC LAMPUNG I,B206,Kapal,"2,600.00",In bag,"166,000.00",,"109,700.00",,"275,700.00",,NPK,350
+Pel Lini I Gresik,B701,DC LAMPUNG II,B206,Kapal,"5,500.00",Curah,"211,500.00",,"91,631.00","92,840.00","395,971.00",,NPK,2500
+Pel Lini I Lhokseumawe,E701,Gudang Pengantongan Paya Pasir,E232,Kapal,"6,000.00",Curah,"194,500.00","1,570.00","137,925.00","62,907.00","396,902.00",,Urea,4000
+Pel Lini I Lhokseumawe,E701,PAYA PASIR,E201,Kapal,"4,000.00",In bag,"380,000.00",,,,"380,000.00",,Urea/NPK,700
